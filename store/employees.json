@@ -1,0 +1,785 @@
+[
+  {
+    "id": 1,
+    "organization": "StrebenTechnik",
+    "imageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+    "coverImageUrl": "https://images.unsplash.com/photo-1444628838545-ac4016a5418a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+    "details": {
+      "age": 28,
+      "parentName": "AVM",
+      "martialStatus": "Single",
+      "contact": {
+        "primaryContact": 9562158114,
+        "secondaryContact": 9562158114,
+        "companyMail": "sanjay@strebentechnik.com",
+        "personalMail": "sanjaynsmkd@gmail.com"
+      },
+      "assets": [
+        {
+          "code": "ASST001",
+          "type": "Laptop",
+          "issueDate": "2022-02-02",
+          "status": "Active"
+        },
+        {
+          "code": "ASST002",
+          "type": "Hard Disk",
+          "issueDate": "2022-02-02",
+          "status": "Inactive"
+        }
+      ],
+      "appraisal": [
+        {
+          "designation": "Back-end Developer",
+          "branch": "calicut",
+          "department": "department1",
+          "dateOfAppraisal": "2022-02-02",
+          "typeOfAppraisal": "6 Mount",
+          "appraisalAmount": "2500"
+        },
+        {
+          "designation": "Back-end Developer",
+          "branch": "calicut",
+          "department": "department1",
+          "dateOfAppraisal": "2022-02-02",
+          "typeOfAppraisal": "6 Mount",
+          "appraisalAmount": "2500"
+        }
+      ],
+      "general": {
+        "firstName": "",
+        "lastName": "",
+        "nationality": "",
+        "dob": "",
+        "bloodGroup": "",
+        "martialStatus": "",
+        "designation": "Senior Software Developer",
+        "department": "IT",
+        "branch": "India",
+        "division": "string",
+        "joiningDate": "string",
+        "experience": "string",
+        "yearOfService": 4,
+        "grossSalary": 1000000,
+        "allowance": 200000
+      },
+      "employment": {
+        "designation": "Senior Software Developer",
+        "department": "IT",
+        "branch": "India",
+        "division": "string",
+        "joiningDate": "string",
+        "experience": "string",
+        "yearOfService": 4,
+        "grossSalary": 1000000,
+        "allowance": 200000
+      },
+      "staffExit": {
+        "status": "Active",
+        "resignationDate": "22/03/2020",
+        "interviewDateExit": "22/11/2020",
+        "relivingdate": "22/04/2020",
+        "reasonForLeaving": "Tincidunt quam neque in cursus viverra orci, dapibus nec tristique. Nullam ut sit dolor consectetur urna, dui cras nec sed. Cursus risus congue arcu aenean posuere aliquam.Et vivamus",
+        "interviewExitSummary": "Tincidunt quam neque in cursus viverra orci, dapibus nec tristique. Nullam ut sit dolor consectetur urna, dui cras nec sed. Cursus risus congue arcu aenean posuere aliquam.Et vivamusTincidunt quam neque in cursus viverra orci, dapibus nec tristique. Nullam ut sit dolor consectetur urna, dui cras nec sed. Cursus risus congue arcu aenean posuere aliquam.Et vivamus"
+      },
+      "education": [],
+      "WorkExperience": [],
+      "credential": [
+        {
+          "credentialType": "Passport",
+          "credentialNumber":"PASS0123",
+          "ExpDate":"2022-02-02",
+          "fileAttachment":"https://cdn-icons-png.flaticon.com/512/7550/7550834.png"
+        },
+        {
+          "credentialType": "Aadhar",
+          "credentialNumber":"ADHR0123",
+          "ExpDate":"2022-02-02",
+          "fileAttachment":"https://cdn-icons-png.flaticon.com/512/7550/7550834.png"
+        }
+      ]
+    },
+    "code": "EMP001",
+    "name": "Sanjay",
+    "shortName": "Ns",
+    "designation": "Senior Software Developer",
+    "notes": "note",
+    "about": "Tincidunt quam neque in cursus viverra orci, dapibus nec tristique. Nullam ut sit dolor consectetur urna, dui cras nec sed. Cursus risus congue arcu aenean posuere aliquam.Et vivamus lorem pulvinar nascetur non. Pulvinar a sed platea rhoncus ac mauris amet. Urna, sem pretium sit pretium urna, senectus vitae. Scelerisque fermentum, cursus felis dui suspendisse velit pharetra. Augue et duis cursus maecenas eget quam lectus. Accumsan vitae nascetur pharetra rhoncus praesent dictum risus suspendisse.",
+    "status": true,
+    "createdBy": "crew1",
+    "updatedBy": "crew1",
+    "createdAt": "2022-02-02T02:02:02.000+00:00",
+    "updatedAt": "2022-02-02T02:02:02.000+00:00"
+  },
+  {
+    "id": 2,
+    "organization": "StrebenTechnik",
+    "imageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+    "coverImageUrl": "https://images.unsplash.com/photo-1444628838545-ac4016a5418a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+    "details": {
+      "age": 30,
+      "parentName": "AVD",
+      "martialStatus": "Single",
+      "contact": {
+        "primaryContact": 9562158115,
+        "secondaryContact": 9562158115,
+        "companyMail": "tom@strebentechnik.com",
+        "personalMail": "tom@gmail.com"
+      },
+      "employment": {
+        "designation": "Software Developer",
+        "department": "IT",
+        "branch": "India",
+        "division": "string",
+        "joiningDate": "string",
+        "experience": "string",
+        "yearOfService": 4,
+        "grossSalary": 500000,
+        "allowance": 10000
+      },
+      "staffExit": {
+        "resignationDate": "22/03/2020",
+        "interviewDateExit": "22/11/2020",
+        "relivingdate": "22/04/2020",
+        "reasonForLeaving": "Tincidunt quam neque in cursus viverra orci, dapibus nec tristique. Nullam ut sit dolor consectetur urna, dui cras nec sed. Cursus risus congue arcu aenean posuere aliquam.Et vivamus",
+        "interviewExitSummary": "Tincidunt quam neque in cursus viverra orci, dapibus nec tristique. Nullam ut sit dolor consectetur urna, dui cras nec sed. Cursus risus congue arcu aenean posuere aliquam.Et vivamusTincidunt quam neque in cursus viverra orci, dapibus nec tristique. Nullam ut sit dolor consectetur urna, dui cras nec sed. Cursus risus congue arcu aenean posuere aliquam.Et vivamus"
+      },
+      "assets": [],
+      "appraisal": [],
+      "education": [
+        {
+          "university": "ADK College",
+          "qualification": "Post Graduation",
+          "passingYear": "2017"
+        },
+        {
+          "university": "MVN",
+          "qualification": "Engineer",
+          "passingYear": "2012"
+        }
+      ],
+      "WorkExperience": [
+        {
+          "companyName": "FE Softwares",
+          "designation": "Software Developer",
+          "experience": "2",
+          "salary": 100000
+        },
+        {
+          "companyName": "SA Software Solution",
+          "designation": "Software Developer",
+          "experience": "1",
+          "salary": 200000
+        }
+      ]
+    },
+    "code": "EMP002",
+    "name": "Tom",
+    "shortName": "TM",
+    "designation": "Software Developer",
+    "notes": "note",
+    "about": "Tincidunt quam neque in cursus viverra orci, dapibus nec tristique. Nullam ut sit dolor consectetur urna, dui cras nec sed. Cursus risus congue arcu aenean posuere aliquam.Et vivamus lorem pulvinar nascetur non. Pulvinar a sed platea rhoncus ac mauris amet. Urna, sem pretium sit pretium urna, senectus vitae. Scelerisque fermentum, cursus felis dui suspendisse velit pharetra. Augue et duis cursus maecenas eget quam lectus. Accumsan vitae nascetur pharetra rhoncus praesent dictum risus suspendisse.",
+    "status": true,
+    "createdBy": "crew1",
+    "updatedBy": "crew1",
+    "createdAt": "2022-02-02T02:02:02.000+00:00",
+    "updatedAt": "2022-02-02T02:02:02.000+00:00"
+  },
+  {
+    "id": 3,
+    "organization": "StrebenTechnik",
+    "imageUrl": "https://images.unsplash.com/photo-1520785643438-5bf77931f493?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+    "coverImageUrl": "https://images.unsplash.com/photo-1444628838545-ac4016a5418a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+    "details": {
+      "age": 24,
+      "parentName": "BVD",
+      "martialStatus": "Single",
+      "contact": {
+        "primaryContact": 9562158125,
+        "secondaryContact": 9562158125,
+        "companyMail": "jake@strebentechnik.com",
+        "personalMail": "jake@gmail.com"
+      },
+      "employment": {
+        "designation": "Software Engineer",
+        "department": "IT",
+        "branch": "India",
+        "division": "string",
+        "joiningDate": "string",
+        "experience": "string",
+        "yearOfService": 1,
+        "grossSalary": 400000,
+        "allowance": 20000
+      },
+      "staffExit": {
+        "resignationDate": "22/03/2020",
+        "interviewDateExit": "22/11/2020",
+        "relivingdate": "22/04/2020",
+        "reasonForLeaving": "Tincidunt quam neque in cursus viverra orci, dapibus nec tristique. Nullam ut sit dolor consectetur urna, dui cras nec sed. Cursus risus congue arcu aenean posuere aliquam.Et vivamus",
+        "interviewExitSummary": "Tincidunt quam neque in cursus viverra orci, dapibus nec tristique. Nullam ut sit dolor consectetur urna, dui cras nec sed. Cursus risus congue arcu aenean posuere aliquam.Et vivamusTincidunt quam neque in cursus viverra orci, dapibus nec tristique. Nullam ut sit dolor consectetur urna, dui cras nec sed. Cursus risus congue arcu aenean posuere aliquam.Et vivamus"
+      },
+      "assets": [],
+      "appraisal": [],
+      "education": [
+        {
+          "university": "DK College",
+          "qualification": "Graduate",
+          "passingYear": "2018"
+        },
+        {
+          "university": "MTK",
+          "qualification": "Engineer",
+          "passingYear": "2015"
+        }
+      ],
+      "WorkExperience": [
+        {
+          "companyName": "SE Softwares",
+          "designation": "Software Engineer",
+          "experience": "1",
+          "salary": 200000
+        },
+        {
+          "companyName": "MA Software Solution",
+          "designation": "Software Developer",
+          "experience": "1",
+          "salary": 200000
+        }
+      ]
+    },
+    "code": "EMP003",
+    "name": "Jake",
+    "shortName": "JK",
+    "designation": "Software Developer",
+    "notes": "note",
+    "about": "Tincidunt quam neque in cursus viverra orci, dapibus nec tristique. Nullam ut sit dolor consectetur urna, dui cras nec sed. Cursus risus congue arcu aenean posuere aliquam.Et vivamus lorem pulvinar nascetur non. Pulvinar a sed platea rhoncus ac mauris amet. Urna, sem pretium sit pretium urna, senectus vitae. Scelerisque fermentum, cursus felis dui suspendisse velit pharetra. Augue et duis cursus maecenas eget quam lectus. Accumsan vitae nascetur pharetra rhoncus praesent dictum risus suspendisse.",
+    "status": true,
+    "createdBy": "crew1",
+    "updatedBy": "crew1",
+    "createdAt": "2022-02-02T02:02:02.000+00:00",
+    "updatedAt": "2022-02-02T02:02:02.000+00:00"
+  },
+  {
+    "id": 4,
+    "organization": "StrebenTechnik",
+    "imageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+    "coverImageUrl": "https://images.unsplash.com/photo-1444628838545-ac4016a5418a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+    "details": {
+      "age": 26,
+      "parentName": "HSD",
+      "martialStatus": "Single",
+      "contact": {
+        "primaryContact": 9562158128,
+        "secondaryContact": 9562158128,
+        "companyMail": "dan@strebentechnik.com",
+        "personalMail": "dan@gmail.com"
+      },
+      "employment": {
+        "designation": "Sales Manager",
+        "department": "Sales",
+        "branch": "India",
+        "division": "string",
+        "joiningDate": "string",
+        "experience": "string",
+        "yearOfService": 1,
+        "grossSalary": 450000,
+        "allowance": 25000
+      },
+      "staffExit": {
+        "resignationDate": "22/03/2020",
+        "interviewDateExit": "22/11/2020",
+        "relivingdate": "22/04/2020",
+        "reasonForLeaving": "Tincidunt quam neque in cursus viverra orci, dapibus nec tristique. Nullam ut sit dolor consectetur urna, dui cras nec sed. Cursus risus congue arcu aenean posuere aliquam.Et vivamus",
+        "interviewExitSummary": "Tincidunt quam neque in cursus viverra orci, dapibus nec tristique. Nullam ut sit dolor consectetur urna, dui cras nec sed. Cursus risus congue arcu aenean posuere aliquam.Et vivamusTincidunt quam neque in cursus viverra orci, dapibus nec tristique. Nullam ut sit dolor consectetur urna, dui cras nec sed. Cursus risus congue arcu aenean posuere aliquam.Et vivamus"
+      },
+      "assets": [],
+      "appraisal": [],
+      "attachments": [],
+      "education": [
+        {
+          "university": "SA College",
+          "qualification": "Graduate",
+          "passingYear": "2017"
+        },
+        {
+          "university": "JDK",
+          "qualification": "Business",
+          "passingYear": "2014"
+        }
+      ],
+      "WorkExperience": [
+        {
+          "companyName": "SE Businesses",
+          "designation": "Sales Head",
+          "experience": "1",
+          "salary": 250000
+        },
+        {
+          "companyName": "SA Sales and Solutions",
+          "designation": "Sales Manager",
+          "experience": "1",
+          "salary": 250000
+        }
+      ]
+    },
+    "code": "EMP004",
+    "name": "Dan",
+    "shortName": "DN",
+    "designation": "Sales Manager",
+    "notes": "note",
+    "status": true,
+    "about": "Tincidunt quam neque in cursus viverra orci, dapibus nec tristique. Nullam ut sit dolor consectetur urna, dui cras nec sed. Cursus risus congue arcu aenean posuere aliquam.Et vivamus lorem pulvinar nascetur non. Pulvinar a sed platea rhoncus ac mauris amet. Urna, sem pretium sit pretium urna, senectus vitae. Scelerisque fermentum, cursus felis dui suspendisse velit pharetra. Augue et duis cursus maecenas eget quam lectus. Accumsan vitae nascetur pharetra rhoncus praesent dictum risus suspendisse.",
+    "createdBy": "crew1",
+    "updatedBy": "crew1",
+    "createdAt": "2022-02-02T02:02:02.000+00:00",
+    "updatedAt": "2022-02-02T02:02:02.000+00:00"
+  },
+  {
+    "id": 5,
+    "organization": "StrebenTechnik",
+    "coverImageUrl": "https://images.unsplash.com/photo-1444628838545-ac4016a5418a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1501031170107-cfd33f0cbdcc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+    "details": {
+      "age": 36,
+      "parentName": "JKS",
+      "martialStatus": "Married",
+      "contact": {
+        "primaryContact": 9562158110,
+        "secondaryContact": 9562158110,
+        "companyMail": "jamie@strebentechnik.com",
+        "personalMail": "jamie@gmail.com"
+      },
+      "employment": {
+        "designation": "Product Manager",
+        "department": "Product",
+        "branch": "UAE",
+        "division": "string",
+        "joiningDate": "string",
+        "experience": "string",
+        "yearOfService": 1,
+        "grossSalary": 650000,
+        "allowance": 35000
+      },
+      "staffExit": {
+        "resignationDate": "22/03/2020",
+        "interviewDateExit": "22/11/2020",
+        "relivingdate": "22/04/2020",
+        "reasonForLeaving": "Tincidunt quam neque in cursus viverra orci, dapibus nec tristique. Nullam ut sit dolor consectetur urna, dui cras nec sed. Cursus risus congue arcu aenean posuere aliquam.Et vivamus",
+        "interviewExitSummary": "Tincidunt quam neque in cursus viverra orci, dapibus nec tristique. Nullam ut sit dolor consectetur urna, dui cras nec sed. Cursus risus congue arcu aenean posuere aliquam.Et vivamusTincidunt quam neque in cursus viverra orci, dapibus nec tristique. Nullam ut sit dolor consectetur urna, dui cras nec sed. Cursus risus congue arcu aenean posuere aliquam.Et vivamus"
+      },
+      "assets": [],
+      "attachments": [],
+      "education": [
+        {
+          "university": "PR College",
+          "qualification": "Graduate",
+          "passingYear": "2010"
+        },
+        {
+          "university": "PRD",
+          "qualification": "Management",
+          "passingYear": "2005"
+        }
+      ],
+      "WorkExperience": [
+        {
+          "companyName": "PR Developers",
+          "designation": "Head of Product",
+          "experience": "1",
+          "salary": 450000
+        },
+        {
+          "companyName": "MDT Solutions",
+          "designation": "Product Manager",
+          "experience": "1",
+          "salary": 250000
+        }
+      ]
+    },
+    "code": "EMP005",
+    "name": "Jamie",
+    "shortName": "JM",
+    "designation": "Product Head",
+    "notes": "note",
+    "about": "Tincidunt quam neque in cursus viverra orci, dapibus nec tristique. Nullam ut sit dolor consectetur urna, dui cras nec sed. Cursus risus congue arcu aenean posuere aliquam.Et vivamus lorem pulvinar nascetur non. Pulvinar a sed platea rhoncus ac mauris amet. Urna, sem pretium sit pretium urna, senectus vitae. Scelerisque fermentum, cursus felis dui suspendisse velit pharetra. Augue et duis cursus maecenas eget quam lectus. Accumsan vitae nascetur pharetra rhoncus praesent dictum risus suspendisse.",
+    "status": true,
+    "createdBy": "crew1",
+    "updatedBy": "crew1",
+    "createdAt": "2022-02-02T02:02:02.000+00:00",
+    "updatedAt": "2022-02-02T02:02:02.000+00:00"
+  },
+  {
+    "id": 6,
+    "organization": "StrebenTechnik",
+    "imageUrl": "https://images.unsplash.com/photo-1513910367299-bce8d8a0ebf6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+    "coverImageUrl": "https://images.unsplash.com/photo-1444628838545-ac4016a5418a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+    "details": {
+      "age": 32,
+      "parentName": "MKS",
+      "martialStatus": "Married",
+      "contact": {
+        "primaryContact": 9562158170,
+        "secondaryContact": 9562158170,
+        "companyMail": "jessie@strebentechnik.com",
+        "personalMail": "jessie@gmail.com"
+      },
+      "employment": {
+        "designation": "Backend Developer",
+        "department": "Backend",
+        "branch": "UAE",
+        "division": "string",
+        "joiningDate": "string",
+        "experience": "string",
+        "yearOfService": 2,
+        "grossSalary": 550000,
+        "allowance": 15000
+      },
+      "staffExit": {
+        "resignationDate": "22/03/2020",
+        "interviewDateExit": "22/11/2020",
+        "relivingdate": "22/04/2020",
+        "reasonForLeaving": "Tincidunt quam neque in cursus viverra orci, dapibus nec tristique. Nullam ut sit dolor consectetur urna, dui cras nec sed. Cursus risus congue arcu aenean posuere aliquam.Et vivamus",
+        "interviewExitSummary": "Tincidunt quam neque in cursus viverra orci, dapibus nec tristique. Nullam ut sit dolor consectetur urna, dui cras nec sed. Cursus risus congue arcu aenean posuere aliquam.Et vivamusTincidunt quam neque in cursus viverra orci, dapibus nec tristique. Nullam ut sit dolor consectetur urna, dui cras nec sed. Cursus risus congue arcu aenean posuere aliquam.Et vivamus"
+      },
+      "assets": [],
+      "appraisal": [],
+      "attachments": [],
+      "education": [
+        {
+          "university": "MN College",
+          "qualification": "Graduate",
+          "passingYear": "2015"
+        },
+        {
+          "university": "ENG University",
+          "qualification": "Engineering",
+          "passingYear": "2017"
+        }
+      ],
+      "WorkExperience": [
+        {
+          "companyName": "BCK Developers",
+          "designation": "Backend Architect",
+          "experience": "1",
+          "salary": 350000
+        },
+        {
+          "companyName": "BD Solutions",
+          "designation": "Backend Engineer",
+          "experience": "1",
+          "salary": 250000
+        }
+      ]
+    },
+    "code": "EMP006",
+    "name": "Jessie",
+    "shortName": "JS",
+    "designation": "Backend Developer",
+    "notes": "note",
+    "about": "Tincidunt quam neque in cursus viverra orci, dapibus nec tristique. Nullam ut sit dolor consectetur urna, dui cras nec sed. Cursus risus congue arcu aenean posuere aliquam.Et vivamus lorem pulvinar nascetur non. Pulvinar a sed platea rhoncus ac mauris amet. Urna, sem pretium sit pretium urna, senectus vitae. Scelerisque fermentum, cursus felis dui suspendisse velit pharetra. Augue et duis cursus maecenas eget quam lectus. Accumsan vitae nascetur pharetra rhoncus praesent dictum risus suspendisse.",
+    "status": false,
+    "createdBy": "crew1",
+    "updatedBy": "crew1",
+    "createdAt": "2022-02-02T02:02:02.000+00:00",
+    "updatedAt": "2022-02-02T02:02:02.000+00:00"
+  },
+  {
+    "id": 7,
+    "organization": "StrebenTechnik",
+    "coverImageUrl": "https://images.unsplash.com/photo-1444628838545-ac4016a5418a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1517070208541-6ddc4d3efbcb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+    "details": {
+      "age": 22,
+      "parentName": "AK",
+      "martialStatus": "Single",
+      "contact": {
+        "primaryContact": 9562168170,
+        "secondaryContact": 9562168170,
+        "companyMail": "damien@strebentechnik.com",
+        "personalMail": "damien@gmail.com"
+      },
+      "employment": {
+        "designation": "Frontend Developer",
+        "department": "Frontend",
+        "branch": "Pakistan",
+        "division": "string",
+        "joiningDate": "string",
+        "experience": "string",
+        "yearOfService": 2,
+        "grossSalary": 250000,
+        "allowance": 15000
+      },
+      "staffExit": {
+        "resignationDate": "22/03/2020",
+        "interviewDateExit": "22/11/2020",
+        "relivingdate": "22/04/2020",
+        "reasonForLeaving": "Tincidunt quam neque in cursus viverra orci, dapibus nec tristique. Nullam ut sit dolor consectetur urna, dui cras nec sed. Cursus risus congue arcu aenean posuere aliquam.Et vivamus",
+        "interviewExitSummary": "Tincidunt quam neque in cursus viverra orci, dapibus nec tristique. Nullam ut sit dolor consectetur urna, dui cras nec sed. Cursus risus congue arcu aenean posuere aliquam.Et vivamusTincidunt quam neque in cursus viverra orci, dapibus nec tristique. Nullam ut sit dolor consectetur urna, dui cras nec sed. Cursus risus congue arcu aenean posuere aliquam.Et vivamus"
+      },
+      "assets": [],
+      "attachments": [],
+      "education": [
+        {
+          "university": "JR College",
+          "qualification": "Graduate",
+          "passingYear": "2016"
+        },
+        {
+          "university": "JR University",
+          "qualification": "Engineering",
+          "passingYear": "2018"
+        }
+      ],
+      "WorkExperience": [
+        {
+          "companyName": "XDevelopers",
+          "designation": "Frontend Architect",
+          "experience": "1",
+          "salary": 350000
+        },
+        {
+          "companyName": "XD Solutions",
+          "designation": "Frontend Engineer",
+          "experience": "1",
+          "salary": 250000
+        }
+      ]
+    },
+    "code": "EMP007",
+    "name": "Damien",
+    "shortName": "D",
+    "designation": "Frontend Developer",
+    "notes": "note",
+    "about": "Tincidunt quam neque in cursus viverra orci, dapibus nec tristique. Nullam ut sit dolor consectetur urna, dui cras nec sed. Cursus risus congue arcu aenean posuere aliquam.Et vivamus lorem pulvinar nascetur non. Pulvinar a sed platea rhoncus ac mauris amet. Urna, sem pretium sit pretium urna, senectus vitae. Scelerisque fermentum, cursus felis dui suspendisse velit pharetra. Augue et duis cursus maecenas eget quam lectus. Accumsan vitae nascetur pharetra rhoncus praesent dictum risus suspendisse.",
+    "status": true,
+    "createdBy": "crew1",
+    "updatedBy": "crew1",
+    "createdAt": "2022-02-02T02:02:02.000+00:00",
+    "updatedAt": "2022-02-02T02:02:02.000+00:00"
+  },
+  {
+    "id": 8,
+    "organization": "StrebenTechnik",
+    "coverImageUrl": "https://images.unsplash.com/photo-1444628838545-ac4016a5418a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+    "details": {
+      "age": 26,
+      "parentName": "SK",
+      "martialStatus": "Single",
+      "contact": {
+        "primaryContact": 8562168170,
+        "secondaryContact": 8562168170,
+        "companyMail": "linda@strebentechnik.com",
+        "personalMail": "linda@gmail.com"
+      },
+      "employment": {
+        "designation": "UI Designer",
+        "department": "UI",
+        "branch": "Nepal",
+        "division": "string",
+        "joiningDate": "string",
+        "experience": "string",
+        "yearOfService": 1,
+        "grossSalary": 250000,
+        "allowance": 15000
+      },
+      "staffExit": {
+        "resignationDate": "22/03/2020",
+        "interviewDateExit": "22/11/2020",
+        "relivingdate": "22/04/2020",
+        "reasonForLeaving": "Tincidunt quam neque in cursus viverra orci, dapibus nec tristique. Nullam ut sit dolor consectetur urna, dui cras nec sed. Cursus risus congue arcu aenean posuere aliquam.Et vivamus",
+        "interviewExitSummary": "Tincidunt quam neque in cursus viverra orci, dapibus nec tristique. Nullam ut sit dolor consectetur urna, dui cras nec sed. Cursus risus congue arcu aenean posuere aliquam.Et vivamusTincidunt quam neque in cursus viverra orci, dapibus nec tristique. Nullam ut sit dolor consectetur urna, dui cras nec sed. Cursus risus congue arcu aenean posuere aliquam.Et vivamus"
+      },
+      "assets": [],
+      "appraisal": [],
+      "attachments": [],
+      "education": [
+        {
+          "university": "SS College",
+          "qualification": "Graduate",
+          "passingYear": "2016"
+        },
+        {
+          "university": "SRS University",
+          "qualification": "Design",
+          "passingYear": "2018"
+        }
+      ],
+      "WorkExperience": [
+        {
+          "companyName": "D4Design",
+          "designation": "UI Designer",
+          "experience": "1",
+          "salary": 250000
+        },
+        {
+          "companyName": "D Solutions",
+          "designation": "UI Intern",
+          "experience": "1",
+          "salary": 150000
+        }
+      ]
+    },
+    "code": "EMP008",
+    "name": "Linda",
+    "shortName": "D",
+    "designation": "UI Designer",
+    "notes": "note",
+    "about": "Tincidunt quam neque in cursus viverra orci, dapibus nec tristique. Nullam ut sit dolor consectetur urna, dui cras nec sed. Cursus risus congue arcu aenean posuere aliquam.Et vivamus lorem pulvinar nascetur non. Pulvinar a sed platea rhoncus ac mauris amet. Urna, sem pretium sit pretium urna, senectus vitae. Scelerisque fermentum, cursus felis dui suspendisse velit pharetra. Augue et duis cursus maecenas eget quam lectus. Accumsan vitae nascetur pharetra rhoncus praesent dictum risus suspendisse.",
+    "status": true,
+    "createdBy": "crew1",
+    "updatedBy": "crew1",
+    "createdAt": "2022-02-02T02:02:02.000+00:00",
+    "updatedAt": "2022-02-02T02:02:02.000+00:00"
+  },
+  {
+    "id": 9,
+    "organization": "StrebenTechnik",
+    "imageUrl": "https://images.unsplash.com/photo-1509783236416-c9ad59bae472?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+    "coverImageUrl": "https://images.unsplash.com/photo-1444628838545-ac4016a5418a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+    "details": {
+      "age": 24,
+      "parentName": "AK",
+      "martialStatus": "Single",
+      "contact": {
+        "primaryContact": 8562168270,
+        "secondaryContact": 8562168270,
+        "companyMail": "lisa@strebentechnik.com",
+        "personalMail": "lisa@gmail.com"
+      },
+      "employment": {
+        "designation": "UX Designer",
+        "department": "UX",
+        "branch": "India",
+        "division": "string",
+        "joiningDate": "string",
+        "experience": "string",
+        "yearOfService": 1,
+        "grossSalary": 250000,
+        "allowance": 15000
+      },
+      "staffExit": {
+        "resignationDate": "22/03/2020",
+        "interviewDateExit": "22/11/2020",
+        "relivingdate": "22/04/2020",
+        "reasonForLeaving": "Tincidunt quam neque in cursus viverra orci, dapibus nec tristique. Nullam ut sit dolor consectetur urna, dui cras nec sed. Cursus risus congue arcu aenean posuere aliquam.Et vivamus",
+        "interviewExitSummary": "Tincidunt quam neque in cursus viverra orci, dapibus nec tristique. Nullam ut sit dolor consectetur urna, dui cras nec sed. Cursus risus congue arcu aenean posuere aliquam.Et vivamusTincidunt quam neque in cursus viverra orci, dapibus nec tristique. Nullam ut sit dolor consectetur urna, dui cras nec sed. Cursus risus congue arcu aenean posuere aliquam.Et vivamus"
+      },
+      "assets": [],
+      "appraisal": [],
+      "attachments": [],
+      "education": [
+        {
+          "university": "JJ College",
+          "qualification": "Graduate",
+          "passingYear": "2016"
+        },
+        {
+          "university": "JR University",
+          "qualification": "Design",
+          "passingYear": "2018"
+        }
+      ],
+      "WorkExperience": [
+        {
+          "companyName": "X2Design",
+          "designation": "UX Designer",
+          "experience": "1",
+          "salary": 250000
+        },
+        {
+          "companyName": "X Solutions",
+          "designation": "UX Intern",
+          "experience": "1",
+          "salary": 150000
+        }
+      ]
+    },
+    "code": "EMP009",
+    "name": "Lisa",
+    "shortName": "S",
+    "designation": "UX Designer",
+    "notes": "note",
+    "about": "Tincidunt quam neque in cursus viverra orci, dapibus nec tristique. Nullam ut sit dolor consectetur urna, dui cras nec sed. Cursus risus congue arcu aenean posuere aliquam.Et vivamus lorem pulvinar nascetur non. Pulvinar a sed platea rhoncus ac mauris amet. Urna, sem pretium sit pretium urna, senectus vitae. Scelerisque fermentum, cursus felis dui suspendisse velit pharetra. Augue et duis cursus maecenas eget quam lectus. Accumsan vitae nascetur pharetra rhoncus praesent dictum risus suspendisse.",
+    "status": true,
+    "createdBy": "crew1",
+    "updatedBy": "crew1",
+    "createdAt": "2022-02-02T02:02:02.000+00:00",
+    "updatedAt": "2022-02-02T02:02:02.000+00:00"
+  },
+  {
+    "id": 10,
+    "organization": "StrebenTechnik",
+    "imageUrl": "https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+    "coverImageUrl": "https://images.unsplash.com/photo-1444628838545-ac4016a5418a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+    "details": {
+      "age": 26,
+      "parentName": "KK",
+      "martialStatus": "Single",
+      "contact": {
+        "primaryContact": 8562168175,
+        "secondaryContact": 8562168175,
+        "companyMail": "luke@strebentechnik.com",
+        "personalMail": "luke@gmail.com"
+      },
+      "employment": {
+        "designation": "UI Designer",
+        "department": "UI",
+        "branch": "Bangladesh",
+        "division": "string",
+        "joiningDate": "string",
+        "experience": "string",
+        "yearOfService": 1,
+        "grossSalary": 250000,
+        "allowance": 15000
+      },
+      "staffExit": {
+        "resignationDate": "22/03/2020",
+        "interviewDateExit": "22/11/2020",
+        "relivingdate": "22/04/2020",
+        "reasonForLeaving": "Tincidunt quam neque in cursus viverra orci, dapibus nec tristique. Nullam ut sit dolor consectetur urna, dui cras nec sed. Cursus risus congue arcu aenean posuere aliquam.Et vivamus",
+        "interviewExitSummary": "Tincidunt quam neque in cursus viverra orci, dapibus nec tristique. Nullam ut sit dolor consectetur urna, dui cras nec sed. Cursus risus congue arcu aenean posuere aliquam.Et vivamusTincidunt quam neque in cursus viverra orci, dapibus nec tristique. Nullam ut sit dolor consectetur urna, dui cras nec sed. Cursus risus congue arcu aenean posuere aliquam.Et vivamus"
+      },
+      "assets": [],
+      "appraisal": [],
+      "attachments": [],
+      "education": [
+        {
+          "university": "SS College",
+          "qualification": "Graduate",
+          "passingYear": "2014"
+        },
+        {
+          "university": "SR University",
+          "qualification": "Design",
+          "passingYear": "2016"
+        }
+      ],
+      "WorkExperience": [
+        {
+          "companyName": "SA Design",
+          "designation": "UI Designer",
+          "experience": "1",
+          "salary": 250000
+        },
+        {
+          "companyName": "AD Solutions",
+          "designation": "UI Designer",
+          "experience": "1",
+          "salary": 150000
+        }
+      ]
+    },
+    "code": "EMP010",
+    "name": "Luke",
+    "shortName": "D",
+    "designation": "UI Designer",
+    "notes": "note",
+    "about": "Tincidunt quam neque in cursus viverra orci, dapibus nec tristique. Nullam ut sit dolor consectetur urna, dui cras nec sed. Cursus risus congue arcu aenean posuere aliquam.Et vivamus lorem pulvinar nascetur non. Pulvinar a sed platea rhoncus ac mauris amet. Urna, sem pretium sit pretium urna, senectus vitae. Scelerisque fermentum, cursus felis dui suspendisse velit pharetra. Augue et duis cursus maecenas eget quam lectus. Accumsan vitae nascetur pharetra rhoncus praesent dictum risus suspendisse.",
+    "status": true,
+    "createdBy": "crew1",
+    "updatedBy": "crew1",
+    "createdAt": "2022-02-02T02:02:02.000+00:00",
+    "updatedAt": "2022-02-02T02:02:02.000+00:00"
+  }
+]
